@@ -10,3 +10,6 @@ Universal HvH Script Like Streroid For CSGO
 Useless Section Mind This
 
 ## Software
+```ruby
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/RunXScript/master/main/Universal-HVH.lua"), true))()
+```
